@@ -12,7 +12,7 @@ This project demonstrates the design and implementation of a **modern data wareh
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer       | Technology Used       |
 |-------------|------------------------|
